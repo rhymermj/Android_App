@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">DayKeeper</string>
+    <string name="title_text">Time, Goals, Reflection</string>
+    <string name="theme_text">Get Your Day Organised</string>
+    <string name="get_started_text">Get Started</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Login</string>
+    <string name="forgot_pwd">Forgot Password?</string>
+    <string name="create_account">Don\'t have an account? <u>Sign up now.</u></string>
+    <string name="register_text">Create Account</string>
+    <string name="reg_account">Register</string>
+    <string name="nav_text">Skip</string>
+    <string name="title_item">Task</string>
+    <string name="hint_desc">Description</string>
+    <string name="hint_priority">Priority (1: High, 2: Medium, 3: Low)</string>
+    <string name="save_button">SAVE</string>
+    <string name="sure_text">Are you sure?</string>
+    <string name="no_text">No</string>
+    <string name="yes_text">Yes</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="no_thoughts_hint">Add things to do by clicking the \\\"+\\\" icon above</string>
+    <string name="add_item">Add Your Task</string>
+    <string name="todo_text">Go to ToDo</string>
+    <string name="title_activity_to_do">ToDoActivity</string>
+    <string name="go_to_nav">Back To Menu</string>
+    <string name="to_do">To Do</string>
+    <string name="check_todo">Check your things to do</string>
+    <string name="do_title">To Do</string>
+    <string name="habit">Habit</string>
+    <string name="frequency_hint">Frequency per week</string>
+    <string name="item_name">Task</string>
+    <string name="date">Date</string>
+    <string name="share">Share</string>
+    <string name="logout">Logout</string>
+    <string name="add_habit">Ready to build a habit?</string>
+    <string name="add_goal">Add Goal</string>
+    <string name="create_habit">Create Habit</string>
+    <string name="hint_goal">Goal</string>
+    <string name="check_in">Check In</string>
+    <string name="confirm_hint">Confirm Password</string>
+    <string name="progress">Progress</string>
+    <string name="go_to_main">Log Out</string>
+    <string name="like">Like</string>
+
+    <string-array name="quotes">
+        <item>We become what we repeatedly do.</item>
+        <item>I have failed many times, and that"’"s why I am a success.</item>
+        <item>Endurance is the price tag of achievement.</item>
+        <item>Excellence is not an act but a habit. The things you do the most are the things you will do best.</item>
+        <item>Choose the pain of discipline or choose the pain of regret.</item>
+        <item>You are never a loser until you quit trying.</item>
+        <item>It"'"s not whether you get knocked down, it"'"s whether you get up.</item>
+        <item>By failing to prepare, you are preparing to fail.</item>
+        <item>Success is supposed to be hard because that is what makes it so special.</item>
+        <item>The great tragedy of life is that most people give up right before achieving success.</item>
+
+        <item>Yesterday you said tomorrow.</item>
+        <item>There is nothing that you can"'"t achieve with hard work, so it"'"s necessary that you build the habit of choosing what is hard and necessary over what is fun and easy to do.</item>
+        <item>Believe that you can and you are halfway there.</item>
+        <item>Whenever you decide not to do what you should be doing, you not only waste your opportunity to grow as a person, but you also lose confidence in yourself. You start to see yourself as lazy and unsuccessful, and that self image will become a prophecy.</item>
+        <item>The critical ingredient is getting off your butt and doing something. Not tomorrow. Not next week.</item>
+        <item>If success was easy, everybody would be successful. But because success in any area of your life requires hard work and sacrifices, most people will never reach their full potential.</item>
+        <item>If you choose what is fun and easy over what is necessary, you will never reach the levels of success and happiness you are capable of achieving in your life. Every great victory requires great sacrifice.</item>
+        <item>If it"'"s to be, it is up to me. You are responsible for your life and the choices you make.</item>
+        <item>Success in life comes from the actions you take on a consistent basis and only self discipline allows you to do that.</item>
+        <item>The secret of getting ahead is getting started.</item>
+
+        <item>A successful individual typically sets his next goal somewhat but not too much above his last achievement. In this way he steadily raises his level of aspiration.</item>
+        <item>Our greatest glory is not in never failing, but in rising up every time we fail.</item>
+        <item>There may be people that have more talent than you, but there"’"s no excuse for anyone to work harder than you do.</item>
+        <item>Don"'"t let yesterday take up too much of today.</item>
+        <item>You learn more from failure than from success. Don"'"t let it stop you. Failure builds character.</item>
+        <item>Failure will never overtake me if my determination to succeed is strong enough.</item>
+        <item>We generate fears while we sit. We overcome them by action.</item>
+        <item>Whether you think you can or you think you can"'"t, you"'"re right.</item>
+        <item>The man hwo has confidence in himself gains the confidence of others.</item>
+        <item>The only limit to our realization of tomorrow will be our doubts of today.</item>
+    </string-array>
+
+    <string-array name="authors">
+        <item>Sean Covey</item>
+        <item>Michael Jordan</item>
+        <item>Unknown</item>
+        <item>Marva Collins</item>
+        <item>Bill Crowder</item>
+        <item>Mike Ditka</item>
+        <item>Vince Lombardi</item>
+        <item>Benjamin Franklin</item>
+        <item>Unknown</item>
+        <item>Unknown</item>
+
+        <item>Nike</item>
+        <item>Unknown</item>
+        <item>Thedore Roosevelt</item>
+        <item>Unknown</item>
+        <item>Nolan Bushnell</item>
+        <item>Unknown</item>
+        <item>Unknown</item>
+        <item>William Johnson</item>
+        <item>Unknown</item>
+        <item>Mark Twain</item>
+
+        <item>Kurt Lewin</item>
+        <item>Ralph Waldo Emerson</item>
+        <item>Derek Jeter</item>
+        <item>Will Rogers</item>
+        <item>Unknown</item>
+        <item>Og Mandino</item>
+        <item>Henry Link</item>
+        <item>Henry Ford</item>
+        <item>Hasidic Proverb</item>
+        <item>Franklin D. Roosevelt</item>
+    </string-array>
+</resources>
